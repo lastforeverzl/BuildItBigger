@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/82dffea721ad866949e55ce443868a85bcdb5aa4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_2c524626ab83cd74b88cb6f616e69c02de947aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/800f64e3e5bc4d3ed794ef6586d52952a43cb1ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_26a766e6cf79f1ab4bf0c41ad6c555623a7cccd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/b9b7d5866f81411352bfd9f72b39b1a5b1681188/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_b3e311f3d5a71364e2911c4b99d4d1e6145c9b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/8e216049511e7541fdaf25d70ab9eb216a07308f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_c9abe920daf11239847ca90d25741fb1b0730fd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/e67b935c214592210620c1899444a9a7e70d4c04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_e3952f8efdbfc004202a774087bcfd84455bb23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/9075a1b3304e0057477be1c364c55dccadf8e23e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_a7a7d3cf6e6ccf0e962cc308bfbe652fcf84e826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/7bf6f83da3b026be68e7c7e1ad17fd227a43185a/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_cb17833f0fe3d5440fb79a066cbadde2b119a2a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/e7dabca05115cb4acc744cf2577b0c1491cdd1c6/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7bd51d613639ee01c3089a8c1ccfbbb3deea7193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_f42447c7cc67174034589d642bc5148cadc295f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/10c2859bb1b84eea17ff6b271c474bbd9a28db36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_dba2abdc062307100dcffdaedf105add0da7ddb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/fef10d3ccb691ba7e369f2884a8c333bc9001642/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_ce7c6b52a94ea5e39934a3ab9789e8c390a54acb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/3efafff8e8e6f160c6bb8865b456a6e8acde9c92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_b2cbcd88a8835b572f42d0aba2a0f05644de4d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/74234e9bc4a544b5068bdcefc928b462dfcabb26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_28bf7fe6a055bf597c042d12e2bbd7e32b6c864b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/3c4b741b8c7fb012f22425777134482c814619a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_31af17eb9842de4e57fe0843d758f08819875888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/800f64e3e5bc4d3ed794ef6586d52952a43cb1ff/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ae3a4bf14cfd75ba3f870b062af330e1cf3d51bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/354f7a8789e16ff97a77506016001ea2be94ed6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_197a9ea4f80188defa0cc3fa614fcec8e07d8394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/354f7a8789e16ff97a77506016001ea2be94ed6e/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3f52d8420a017f0301a67b1ad2c5fcead0a6238c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/10c2859bb1b84eea17ff6b271c474bbd9a28db36/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_051c8b7e9dc76f050dfadc2e52526cde1df836d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/e7dabca05115cb4acc744cf2577b0c1491cdd1c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_758b86bbd6f77f53f82f8fde755b239c922eca30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/d99c5ac4a4d65d785b0fbc6d0ee0d71667ae3fe3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_66daf550baab1689000c18c329c1c732a0876375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/64476fb87827d804cc859b8e0f2989b728be4593/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_dbe14a6e7fd2b0aefc81510f7154d2da388b6eb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lei/.android/build-cache/7bf6f83da3b026be68e7c7e1ad17fd227a43185a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/debug/classes_8b762d4f1ebb98591731ee7b3fa1441988f079cb.jar" />
+    </item>
+
+</items>
