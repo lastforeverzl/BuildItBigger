@@ -17,3 +17,37 @@ allprojects {
         jcenter()
     }
 }
+
+// 1. Launches the GCE local development server
+// (in Daemon mode, so it doesn't block further execution)
+task runAppEngine (dependsOn: ":backend:appengineRun") {
+    project(":backend").afterEvaluate { backend ->
+        backend.extensions.appengine.daemon = true
+    }
+    doLast {
+        println "Started the GCE server!"
+    }
+}
+
+// 2. Runs all tests
+task runConnectedAndroidTest(dependsOn: ":app:connectedAndroidTest") {
+    doLast {
+        println "connectedAndroidTest Finished !"
+    }
+}
+
+// 3. Shuts the server down again
+task stopAppEngine(dependsOn: ":backend:appengineStop") {
+    doLast {
+        println "GCE Server Stopped!"
+    }
+}
+
+// To tie it all together
+task runAll {
+    dependsOn 'runAppEngine'
+    dependsOn 'runConnectedAndroidTest'
+    dependsOn 'stopAppEngine'
+    tasks.findByName('runConnectedAndroidTest').mustRunAfter 'runAppEngine'
+    tasks.findByName('stopAppEngine').mustRunAfter 'runConnectedAndroidTest'
+}

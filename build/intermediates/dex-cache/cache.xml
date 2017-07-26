@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/androidjokedisplayer/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3996c6ca0c882634a79b0399858bcf335ddbaa6b">
+        <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/androidjokedisplayer/build/intermediates/pre-dexed/androidTest/debug/classes_49f183b0119cdd2f212744b140c0eeae19fcbf02.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/androidjokedisplayer/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -16,7 +25,7 @@
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="2029efe9ed2b4992be72bd352a1967469431930a">
+        sha1="59a89efeb61ce1c55f54c1f14c97c00fcf4da831">
         <dex dex="/Users/lei/AndroidStudioProjects/Udacity_NanoDegree/projects/BuildItBigger/app/build/intermediates/pre-dexed/free/debug/backend-android-endpoints_8e0e1eedb717ae242f5373ffb8eb56740d5c8994.jar" />
     </item>
 
